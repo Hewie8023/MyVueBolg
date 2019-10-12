@@ -15,6 +15,7 @@ module.exports = {
       repo: 'Hewie8023/MyVueBolg',
       editLinks: true,
       editLinkText: '帮助我们改善此页面！',
+      docsDir: 'docs',
       nav: [
         { text: 'Home', link: '/' },
         { text: 'Guide', link: '/guide/' },
